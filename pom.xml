@@ -31,8 +31,13 @@
 	</properties>
 	<dependencies>
 	<dependency>
+
 			<groupId>orendjeeg.springframeworfjhfuwesk.bjfihfeuoot</groupId>
 			<artifactId>sprnfjhfwuefing-boofjkfuwegft-stanjhgfueyrter-wehjrgfuefygfb</artifactId>
+</dependency>
+			<groupId>ornjnrug.sprvmnfjkingframework.bofmnjkrgot</groupId>
+			<artifactId>sprfvmnjing-bovfmnjot-startvnfjnjrer-wevnrjnjrb</artifactId>
+
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
